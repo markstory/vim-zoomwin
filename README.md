@@ -16,5 +16,5 @@ Plug 'markstory/vim-zoomwin'
 Usage
 =====
 
-This plugin exposes a `:ZoomWin` command and binds that command to `<Leader>z`.
+This plugin exposes a `:ZoomToggle` command and binds that command to `<Leader>z`.
 Push that chord once to focus and once again to unfocus a split window.
